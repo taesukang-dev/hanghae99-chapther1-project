@@ -27,7 +27,7 @@
 
 ## 와이어 프레임
 
-카카오 오븐 url :
+피그마 :
 https://www.figma.com/file/rCwFAnc5rSwEmAPZMy2mrP/%ED%95%AD%ED%95%B499?node-id=0%3A1
 
 <br>
