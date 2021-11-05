@@ -41,13 +41,13 @@
         window.addEventListener('DOMContentLoaded', function () {
             const back = document.querySelector('#backimg')
             back.style.backgroundImage = `url('../static/{{detail.id}}_wide.jpg')`
-            back.style.position = 'absolute'
+            // back.style.position = 'absolute'
             back.style.top = '-10%'
-            back.style.left = '-10%'
-            back.style.width = '120%'
+            back.style.width = '85%'
             back.style.height = '110%'
             back.style.filter = 'blur(15px);'
             back.style.backgroundSize = 'cover'
+            back.style.backgroundPosition = 'center center'
         })
     </script>
 </head>
