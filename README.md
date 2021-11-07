@@ -38,6 +38,7 @@ http://taesukang.shop/
 <br>
 
 ## 데모영상 유튜브 링크
+https://www.youtube.com/watch?v=PckVcnKXE8A&ab_channel=%ED%95%9C%EC%83%98
 <br>
 
 ## API
